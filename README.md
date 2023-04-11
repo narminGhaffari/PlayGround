@@ -18,7 +18,7 @@ As a developer, it's important to continuously improve your coding skills by pra
 
 To get started with PlayGround, you'll need to clone the repository to your local machine using the following command:
 
-git clone https://github.com/narminGhaffari/PlayGround.git
+    git clone https://github.com/narminGhaffari/PlayGround.git
 
 
 Once you have the repository cloned to your machine, you can explore the various exercises and mini-projects contained within the repository.
